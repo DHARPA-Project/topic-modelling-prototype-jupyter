@@ -6,5 +6,6 @@
 
 ## Notes
 
-- render using voila on my.binder: https://mybinder.org/v2/gh/DHARPA-Project/topic-modelling-prototype-jupyter.git/HEAD?filepath=%2Fvoila%2Frender%2Findex.ipynb
+- render using voila on my.binder: https://mybinder.org/v2/gh/DHARPA-Project/topic-modelling-prototype-jupyter.git/HEAD?urlpath=%2Fvoila%2Frender%2Findex.ipynb
+
 
